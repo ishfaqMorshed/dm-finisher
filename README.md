@@ -55,4 +55,4 @@ Processing is fully automatic: each `fin_jobs` insert fires a Postgres trigger �
 The n8n workflow to use is in `n8n/README.md` (import file for workflow `Vi8LELQs076uE7jD`).
 
 ## Test account
-`finisher-test@dmteam.local` / `FinisherTest#2026` — password login is behind the "Use password" toggle. Delete this user in Supabase → Authentication when no longer needed.
+`finisher-test@dmteam.local` / `FinisherTest#2026`. Delete this user in Supabase → Authentication when no longer needed.
